@@ -10,3 +10,4 @@ pluginManagement {
 
 rootProject.name = "intellij-issue-sample"
 
+include("moduleA")
